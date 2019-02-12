@@ -1,6 +1,6 @@
-Houseparty Backend Coding Challenge README
+# Houseparty Backend Coding Challenge README
 
-JSON structure can be found here.
+## JSON structure can be found here.
 
 https://drive.google.com/file/d/1ROHHxzhOs1wW5bKIVnHdIz1XFDQk3xGO/view
 
@@ -20,7 +20,7 @@ From the first line, Nora and Kenn became friends. Then Kiki "unfriended" Sho, a
 the number of milliseconds since Epoch (Jan 1st, 1970).
 
 
-CommandLine Tool
+## CommandLine Tool
 Consists of driver.go and folder parse (package)
 Input events are read in driver.go and data is written to objects and data
 structures in the parse package
@@ -43,7 +43,7 @@ outputting
 If anyone is unfriended at the latest timestamp then they will not be
 considered as a connection or be output as friends
 
-Bonuses
+## Bonuses
 Implemented Six Degrees of Kevin Bacon
 
 Algorithm used for solving degrees of seperation is a depth first search and
